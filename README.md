@@ -1,6 +1,6 @@
-# Calculus: Applications in Constrained Optimization
+# Solutions to *Calculus: Applications in Constrained Optimization*
 
-![Book cover](book.png)
+<img src="book.png" alt="Book cover" width="300" />
 
 **Title:** Calculus: Applications in Constrained Optimization
 
